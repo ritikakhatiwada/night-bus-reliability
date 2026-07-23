@@ -1,11 +1,11 @@
 # Predictive Analytics for Night Bus Service Reliability
 ## ST5011CEM – Big Data Programming Project | Technical Report
 
-**Student Name:** [Your Name]  
-**Student ID:** [Your ID]  
+**Student Name:** Ritika Khatiwada 
+**Student ID:** 240638 
 **Module:** Big Data Programming Project (ST5011CEM)  
 **Supervisor:** Mr. Siddhartha Neupane  
-**Date of Submission:** [Date]
+**Date of Submission:** 4th August 2026
 
 ---
 
